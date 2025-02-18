@@ -1,0 +1,14 @@
+elevenlabs
+sounddevice>=0.4.6
+scipy>=1.11.3
+numpy>=1.24.0
+SpeechRecognition
+google-generativeai==0.8.3
+python-dotenv
+Flask
+pyttsx3
+requests
+gunicorn
+twilio
+urllib3
+pyngrok
